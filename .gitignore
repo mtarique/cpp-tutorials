@@ -34,7 +34,7 @@
 .vscode/
 .DS_Store
 
-# Ignore all files without extension executable
+# Ignore all executable files without extension
 oop/*
 !oop/*/
 !oop/*.cpp
